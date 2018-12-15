@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="9px" height="6px" viewBox="0 0 9 6" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>Page 1</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <polygon id="path-1" points="0 0 9.02777778 0 9.02777778 6 0 6"></polygon>
+    </defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="artist---tour-nav" transform="translate(-220.000000, -66.000000)">
+            <g id="Group">
+                <g id="Group-9" transform="translate(146.000000, 60.000000)">
+                    <g id="Page-1" transform="translate(74.000000, 6.000000)">
+                        <mask id="mask-2" fill="white">
+                            <use xlink:href="#path-1"></use>
+                        </mask>
+                        <g id="Clip-2"></g>
+                        <path d="M4.51388889,6 L0.237439191,1.46694282 C-0.079146397,1.13136058 -0.079146397,0.587268921 0.237439191,0.251686681 C0.554049723,-0.0838955602 1.06734142,-0.0838955602 1.38390207,0.251686681 L4.51388889,3.56948772 L7.64387571,0.251686681 C7.9604613,-0.0838955602 8.473753,-0.0838955602 8.79033859,0.251686681 C9.10692417,0.587268921 9.10692417,1.13136058 8.79033859,1.46694282 L4.51388889,6 Z" id="Fill-1" fill="#FFFFFF" mask="url(#mask-2)"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
